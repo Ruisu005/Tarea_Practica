@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tarea_Practica</string>
+
+    <string name="hola">Bienvenido Ingresa tu Nombre</string>
+    <string name="nombre">Nombre</string>
+    <string name="enviar">Enviar</string>
+
+    <string name="nombre2">Nombre</string>
+    <string name="regresar">regresar</string>
+</resources>
